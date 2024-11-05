@@ -32,7 +32,7 @@ function Home({ setLoggedIn }) {
       {/* Ô Tìm Kiếm Sản Phẩm */}
       <TextField
         variant="outlined"
-        placeholder="Thích gái đít bự"
+        placeholder="Tìm kiếm sản phẩm..."
         size="small"
         sx={{
           backgroundColor: 'white',
